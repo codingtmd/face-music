@@ -15,5 +15,10 @@ After your run this demo, the camera will capture your face and try to identify 
 ![](https://raw.github.com/codingtmd/face-music/master/doc/liveserver.png)
 4. click the go live button and you will see the result.
 ![](./doc/golive.png)
+![](./doc/demo.png)
+
+
+### Demo Video
+Plz checkout the demo.mp4 in doc folder.
 ![](./doc/demo.mp4)
 

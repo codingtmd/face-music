@@ -12,7 +12,7 @@ After your run this demo, the camera will capture your face and try to identify 
 1. download visual studio code, a very powerful developing IDE.  https://code.visualstudio.com/
 2. git clone current code to your local dev box and put it into a folder, and then use visual studio code to open this folder.
 3. install a plugin - live server,  in visual studio code
-![](./doc/liveserver.png)
+![](https://raw.github.com/codingtmd/face-music/master/doc/liveserver.png)
 4. click the go live button and you will see the result.
 ![](./doc/golive.png)
 ![](./doc/demo.mp4)

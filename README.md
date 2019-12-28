@@ -14,11 +14,11 @@ After your run this demo, the camera will capture your face and try to identify 
 3. install a plugin - live server,  in visual studio code
 ![](https://raw.github.com/codingtmd/face-music/master/doc/liveserver.png)
 4. click the go live button and you will see the result.
-![](./doc/golive.png)
-![](./doc/demo.png)
+![](https://raw.github.com/codingtmd/face-music/master/doc/golive.png)
+![](https://raw.github.com/codingtmd/face-music/master/doc/demo.png)
 
 
 ### Demo Video
 Plz checkout the demo.mp4 in doc folder.
-![](./doc/demo.mp4)
+![](https://raw.github.com/codingtmd/face-music/master/doc/demo.mp4)
 
